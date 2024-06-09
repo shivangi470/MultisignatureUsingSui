@@ -1,0 +1,8 @@
+{
+  "name": "Sui DApp Development",
+  "image": "mcr.microsoft.com/vscode/devcontainers/javascript-node:0-14",
+  "features": {
+    "ghcr.io/devcontainers/features/rust:1": {}
+  },
+  "postCreateCommand": "npm install"
+}
